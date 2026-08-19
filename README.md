@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.pixiv.net/artworks/148587537" width="100%" alt="Shen Ye (神烨) - Human Echoes Game Creator" style="border-radius: 15px;">
+  <img src="https://raw.githubusercontent.com/shinye-art/Shinye/main/shinye_artwork_azurlane_fanart.png">
 </p>
 
 # Shen Ye (神烨)
