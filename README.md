@@ -1,4 +1,8 @@
-<img width="2480" height="3508" alt="belfast fanart by shinye 5" src="https://github.com/user-attachments/assets/adc5ae4f-c813-4e0a-b0b0-3a23a718a04b" />
+<p align="center">
+  <img src="<img width="2480" height="3508" alt="belfast fanart by shinye 5" src="https://github.com/user-attachments/assets/adc5ae4f-c813-4e0a-b0b0-3a23a718a04b" />" width="100%" alt="Shen Ye (神烨) - Human Echoes Game Creator" style="border-radius: 15px;">
+</p>
+
+
 # Shen Ye (神烨)
 
 **Game Developer & Independent Artist**
