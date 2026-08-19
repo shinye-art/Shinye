@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="<img width="2480" height="3508" alt="belfast fanart by shinye 5" src="https://github.com/user-attachments/assets/adc5ae4f-c813-4e0a-b0b0-3a23a718a04b" />" width="100%" alt="Shen Ye (神烨) - Human Echoes Game Creator" style="border-radius: 15px;">
+  <img src="<img width="2480" height="3508" alt="belfast fanart by shinye 5" src="https://github.com/user-attachments/assets/fbd7aed4-2293-4668-9f22-6cac99e2eb9c" />
+" width="100%" alt="Shen Ye (神烨) - Human Echoes Game Creator" style="border-radius: 15px;">
 </p>
+
 
 
 # Shen Ye (神烨)
