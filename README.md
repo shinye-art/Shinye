@@ -1,4 +1,4 @@
-# ![Shen Ye](https://raw.githubusercontent.com/shinye-art/Shinye/main/shinye_artwork_azurlane_fanart.png" alt="Shen Ye's Art)
+# ![Shen Ye](https://github.com/shinye-art/Shinye/blob/main/shinye_artwork_azurlane_fanart.png)
 
 # Shen Ye (神烨)
 
