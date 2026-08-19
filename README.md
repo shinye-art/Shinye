@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shinye-art/Shinye/main/shinye_artwork_azurlane_fanart.png" width="100%" alt="Shen Ye Artwork">
-</div>
+![Shen Ye](https://raw.githubusercontent.com/shinye-art/Shinye/main/shinye_artwork_azurlane_fanart.png)
 
 # Shen Ye (神烨)
 
